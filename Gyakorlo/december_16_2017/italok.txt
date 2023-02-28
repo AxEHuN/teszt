@@ -1,0 +1,9 @@
+Coca-Cola111;5 dl;249
+Kékfrankos;0,75 l;2110;11.5
+Kékfrankos2;0,75 l;2690;20.5
+Kékfra;0,75 l;2890;12.5
+Kékfrankos4;0,75 l;2290;8.5
+Kékfran;0,75 l;2390;9.5
+Coca-Cola;1,5 l;329
+Coca-Cola;0,33 l;149
+Fanta;5 dl;249
